@@ -1,0 +1,14 @@
+day: Wednesday
+lessons:
+- lesson: Discrete math
+  time: 10:00-11:30
+  address: St.Lomonosova, h.9, aud.9
+  week: even
+- lesson: English
+  time: 11:40-13:10
+  address: St.Lomonosova, h.9, aud.9
+  week: all
+- lesson: Math
+  time: 13:30-15:00
+  address: St.Lomonosova, h.9, aud.9
+  week: all
